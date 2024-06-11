@@ -9,9 +9,9 @@ The Password Manager will help you generate, store, and manage passwords securel
 ### Features
 
 - **Password Generation**: Generate complex, secure passwords with numbers, symbols, and required length.
-- **Store Passwords**: Save passwords locally on your computer in a text file.
+- **Store Passwords**: Save passwords locally on your computer in a json file.
 - **Basic Validations**: Ensure no fields are left empty when adding a new password.
-- **Clipboard Functionality**: Automatically copy generated passwords to the clipboard for easy pasting.
+- **Clipboard Functionality**: Automatically copy generated and searched passwords to the clipboard for easy pasting.
 
 ### Step-by-Step Breakdown
 
@@ -31,5 +31,7 @@ Here's a preview of what you can do with MyPass:
 2. **Save Password**: Enter the website name, email/username, and the generated password, then click "Add".
 3. **Validation**: If any fields are empty, you'll receive a prompt to fill them in.
 4. **Clipboard**: The generated password is automatically copied to your clipboard for easy pasting.
-
-Note : For exe file use case save the main.exe file along with the image and data file for working in same folder. 
+   
+## Note :
+For exe file use case save the main.exe file along with the image and data file for working in same folder. 
+You can also create your own exe file using pyinstaller.      
