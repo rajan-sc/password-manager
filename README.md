@@ -31,6 +31,14 @@ Here's a preview of what you can do with MyPass:
 2. **Save Password**: Enter the website name, email/username, and the generated password, then click "Add".
 3. **Validation**: If any fields are empty, you'll receive a prompt to fill them in.
 4. **Clipboard**: The generated password is automatically copied to your clipboard for easy pasting.
+
+## Screenshots
+
+   ![image](https://github.com/rajan-sc/password-manager/assets/164380069/e4345767-f970-468b-8b8a-b8d58b872ed0)
+
+   ![image](https://github.com/rajan-sc/password-manager/assets/164380069/f56865fa-3188-47b0-ae63-ab435207975a)
+
+
    
 ## Note :
 For exe file use case save the main.exe file along with the image and data file for working in same folder. 
